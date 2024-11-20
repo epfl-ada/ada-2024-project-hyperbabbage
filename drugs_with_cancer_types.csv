@@ -1,0 +1,459 @@
+,Name,Source,cancer_type
+0,ABVD,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abvd,"Hodgkin Lymphoma, leukaemia"
+1,AC,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ac,"Bladder Cancer, Breast Cancer, Kidney Cancer, leukaemia"
+2,ATO,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/arsenic,leukaemia
+3,ATRA,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tretinoin,leukaemia
+4,Abemaciclib (Verzenois),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abemaciclib,Breast Cancer
+5,Abiraterone (Zytiga),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abiraterone,Prostate Cancer
+6,Abraxane,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/nab-paclitaxel,"Breast Cancer, Pancreatic Cancer"
+8,Acalabrutinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/acalabrutinib,"Melanoma, Skin Cancer, leukaemia"
+12,Adriamycin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/doxorubicin,"Bladder Cancer, Breast Cancer, leukaemia"
+13,Afatinib (Giotrif),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/afatinib,Lung Cancer
+14,Afinitor,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/everolimus,"Breast Cancer, neuroendocrine tumours"
+15,Aldara,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/imiquimod,"Basal Cell Carcinoma, Melanoma, Skin Cancer"
+16,Alectinib (Alecensa),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/alectinib,Lung Cancer
+17,Alkeran,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/melphalan,leukaemia
+18,Alpelisib and fulvestrant,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/alpelisib-fulvestrant,Breast Cancer
+19,Anastrazole (Arimidex),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/anastrozole,Breast Cancer
+20,Apalutamide,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/apalutamide,Prostate Cancer
+21,Ara C,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cytarabine,leukaemia
+22,Arimidex,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/anastrozole,Breast Cancer
+23,Aromasin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/exemestane-aromasin,Breast Cancer
+24,Arsenic trioxide and Tretinoin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/arsenic-trioxide-tretinoin,leukaemia
+25,Asciminib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/asciminib,leukaemia
+26,"Asparaginase (Spectrila, Erwinase, Oncaspar)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/asparaginase,leukaemia
+27,Atezolizumab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/atezolizumab,Lung Cancer
+28,Atezolizumab and nab-paclitaxel,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/atezolizumab-nab-paclitaxel,Breast Cancer
+29,Avelumab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/avelumab,"Kidney Cancer, Merkel Cell Carcinoma"
+30,Axitinib (Inlyta),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/axitinib,Kidney Cancer
+31,Azacitidine (Vidaza),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/azacitidine,leukaemia
+32,BEACOPP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/beacopp,"Hodgkin Lymphoma, leukaemia"
+33,BEAM,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/beam,"Hodgkin Lymphoma, Non-Hodgkin Lymphoma, leukaemia"
+34,Bendamustine (Levact),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bendamustine,"Melanoma, Non-Hodgkin Lymphoma, Skin Cancer, leukaemia, myeloma"
+35,Besponsa,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/inotuzumab-ozogamicin,leukaemia
+38,Bicalutamide (Casodex),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bicalutamide,Prostate Cancer
+40,"Bleomycin, etoposide and platinum (BEP)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bep,"Ovarian Cancer, Testicular Cancer, leukaemia"
+41,Blinatumomab (Blincyto),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/blinatumomab,leukaemia
+42,Bortezomib (Velcade),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bortezomib,"Mantle Cell Lymphoma, Multiple Myeloma, myeloma"
+43,"Bortezomib, cyclophosphamide and dexamethasone (VCD)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/VCD,myeloma
+44,Bosulif,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bosutinib,leukaemia
+45,Bosutinib (Bosulif),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bosutinib,leukaemia
+46,Brentuximab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/brentuximab,Hodgkin Lymphoma
+47,Brigatinib (Alunbrig),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/brigatinib,Lung Cancer
+48,Buserelin (Suprefact),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/buserelin,Prostate Cancer
+49,Busulfan,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/busulfan,leukaemia
+50,CAPE-OX,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/oxaliplatin-capecitabine,"Colorectal Cancer, Stomach Cancer"
+51,CAPOX,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/oxaliplatin-capecitabine,"Colorectal Cancer, Stomach Cancer"
+52,CAV,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cav,Lung Cancer
+53,CCNU,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/lomustine-ccnu,leukaemia
+54,CHOP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/chop,"Diffuse Large B-Cell Lymphoma (DLBCL), Non-Hodgkin Lymphoma, leukaemia"
+55,CPX351,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/liposomal-daunorubicin-cytarabine-vyxeos-cpx351,"Leukemia, leukaemia"
+56,Cabazitaxel (Jevtana),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cabazitaxel,Prostate Cancer
+57,Cabometyx,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cabozantinib,"Kidney Cancer, Liver Cancer, Medullary Thyroid Cancer, Thyroid Cancer"
+58,"Cabozantinib (Cometriq, Cabometyx)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cabozantinib,"Kidney Cancer, Liver Cancer, Medullary Thyroid Cancer, Thyroid Cancer"
+61,Campto,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/irinotecan,"Esophageal Cancer, Ewing Sarcoma, Ovarian Cancer, Rhabdomyosarcoma, Sarcoma, Stomach Cancer"
+63,Caprelsa,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/vandetanib,"Breast Cancer, Prostate Cancer"
+64,CarboTaxol,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pc-paclitaxel-carboplatin,leukaemia
+66,Carboplatin and etoposide,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/carboplatin-etoposide,leukaemia
+67,Carboplatin and paclitaxel,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pc-paclitaxel-carboplatin,leukaemia
+68,Carfilzomib and dexamethasone,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/carfilzomib-dexamethasone,"Multiple Myeloma, myeloma"
+69,Carmustine (BCNU),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/carmustine,leukaemia
+70,Casodex,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bicalutamide,Prostate Cancer
+71,Cemiplimab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cemiplimab,Squamous Cell Carcinoma
+72,Ceritinib (Zykadia),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ceritinib,Lung Cancer
+73,Cetuximab (Erbitux),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cetuximab,Colorectal Cancer
+74,Chlorambucil (Leukeran),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/chlorambucil,"Hodgkin Lymphoma, Non-Hodgkin Lymphoma, leukaemia"
+75,Cisplatin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cisplatin,leukaemia
+78,"Cisplatin, etoposide and ifosfamide (VIP)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cisplatin-etoposide-ifosfamide-vip,"Testicular Cancer, leukaemia"
+79,"Cisplatin, fluorouracil (5FU) and trastuzumab",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cisplatin-fluorouracil-trastuzumab,"Stomach Cancer, leukaemia"
+80,Cladribine,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cladribine,leukaemia
+81,Clasteon,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/sodium-clodronate,"Breast Cancer, myeloma"
+83,Cometriq,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cabozantinib,"Kidney Cancer, Liver Cancer, Medullary Thyroid Cancer, Thyroid Cancer"
+85,Crisantaspase,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/asparaginase,leukaemia
+86,Crizotinib (Xalkori),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/crizotinib,Lung Cancer
+87,Cyclophosphamide,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cyclophosphamide,"Bladder Cancer, leukaemia"
+88,"Cyclophosphamide, thalidomide and dexamethasone (CTD)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ctd,"Bladder Cancer, leukaemia, myeloma"
+89,Cyprostat,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cyproterone-acetate,"Meningioma, Prostate Cancer"
+90,Cyproterone acetate,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cyproterone-acetate,"Meningioma, Prostate Cancer"
+91,"Cytarabine (Ara C, cytosine arabinoside)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cytarabine,leukaemia
+92,Cytarabine into spinal fluid (intrathecal cytarabine),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cytarabine-into-spinal-fluid,leukaemia
+93,Cytosine arabinoside,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cytarabine,leukaemia
+94,DA,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/da,leukaemia
+95,DHAP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/dhap,"Hodgkin Lymphoma, Non-Hodgkin Lymphoma, leukaemia"
+96,DTIC,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/dacarbazine,"Hodgkin Lymphoma, Melanoma, Sarcoma, Skin Cancer"
+97,Dabrafenib (Tafinlar),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/dabrafenib,"Basal Cell Carcinoma, Lung Cancer, Melanoma, Skin Cancer, Squamous Cell Carcinoma"
+98,ABVD,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abvd,"Hodgkin Lymphoma, leukaemia"
+99,AC,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ac,"Bladder Cancer, Breast Cancer, Kidney Cancer, leukaemia"
+100,ATO,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/arsenic,leukaemia
+101,ATRA,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tretinoin,leukaemia
+102,Abemaciclib (Verzenois),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abemaciclib,Breast Cancer
+103,Abiraterone (Zytiga),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abiraterone,Prostate Cancer
+104,Abraxane,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/nab-paclitaxel,"Breast Cancer, Pancreatic Cancer"
+106,Acalabrutinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/acalabrutinib,"Melanoma, Skin Cancer, leukaemia"
+110,Adriamycin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/doxorubicin,"Bladder Cancer, Breast Cancer, leukaemia"
+111,Afatinib (Giotrif),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/afatinib,Lung Cancer
+112,Afinitor,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/everolimus,"Breast Cancer, neuroendocrine tumours"
+113,Aldara,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/imiquimod,"Basal Cell Carcinoma, Melanoma, Skin Cancer"
+114,Alectinib (Alecensa),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/alectinib,Lung Cancer
+115,Alkeran,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/melphalan,leukaemia
+116,Alpelisib and fulvestrant,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/alpelisib-fulvestrant,Breast Cancer
+117,Anastrazole (Arimidex),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/anastrozole,Breast Cancer
+118,Apalutamide,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/apalutamide,Prostate Cancer
+119,Ara C,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cytarabine,leukaemia
+120,Arimidex,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/anastrozole,Breast Cancer
+121,Aromasin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/exemestane-aromasin,Breast Cancer
+122,Arsenic trioxide and Tretinoin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/arsenic-trioxide-tretinoin,leukaemia
+123,Asciminib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/asciminib,leukaemia
+124,"Asparaginase (Spectrila, Erwinase, Oncaspar)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/asparaginase,leukaemia
+125,Atezolizumab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/atezolizumab,Lung Cancer
+126,Atezolizumab and nab-paclitaxel,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/atezolizumab-nab-paclitaxel,Breast Cancer
+127,Avelumab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/avelumab,"Kidney Cancer, Merkel Cell Carcinoma"
+128,Axitinib (Inlyta),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/axitinib,Kidney Cancer
+129,Azacitidine (Vidaza),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/azacitidine,leukaemia
+130,BEACOPP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/beacopp,"Hodgkin Lymphoma, leukaemia"
+131,BEAM,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/beam,"Hodgkin Lymphoma, Non-Hodgkin Lymphoma, leukaemia"
+132,Bendamustine (Levact),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bendamustine,"Melanoma, Non-Hodgkin Lymphoma, Skin Cancer, leukaemia, myeloma"
+133,Besponsa,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/inotuzumab-ozogamicin,leukaemia
+136,Bicalutamide (Casodex),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bicalutamide,Prostate Cancer
+138,ABVD,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abvd,"Hodgkin Lymphoma, leukaemia"
+139,AC,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ac,"Bladder Cancer, Breast Cancer, Kidney Cancer, leukaemia"
+140,ATO,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/arsenic,leukaemia
+141,ATRA,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tretinoin,leukaemia
+142,Abemaciclib (Verzenois),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abemaciclib,Breast Cancer
+143,Abiraterone (Zytiga),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abiraterone,Prostate Cancer
+144,Abraxane,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/nab-paclitaxel,"Breast Cancer, Pancreatic Cancer"
+146,Acalabrutinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/acalabrutinib,"Melanoma, Skin Cancer, leukaemia"
+147,ABVD,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abvd,"Hodgkin Lymphoma, leukaemia"
+148,AC,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ac,"Bladder Cancer, Breast Cancer, Kidney Cancer, leukaemia"
+149,ATO,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/arsenic,leukaemia
+150,ATRA,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tretinoin,leukaemia
+151,Abemaciclib (Verzenois),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abemaciclib,Breast Cancer
+152,ABVD,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abvd,"Hodgkin Lymphoma, leukaemia"
+153,AC,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ac,"Bladder Cancer, Breast Cancer, Kidney Cancer, leukaemia"
+154,ATO,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/arsenic,leukaemia
+155,ATRA,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tretinoin,leukaemia
+156,Abemaciclib (Verzenois),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abemaciclib,Breast Cancer
+157,Abiraterone (Zytiga),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abiraterone,Prostate Cancer
+158,Abraxane,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/nab-paclitaxel,"Breast Cancer, Pancreatic Cancer"
+160,Acalabrutinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/acalabrutinib,"Melanoma, Skin Cancer, leukaemia"
+164,Adriamycin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/doxorubicin,"Bladder Cancer, Breast Cancer, leukaemia"
+165,Afatinib (Giotrif),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/afatinib,Lung Cancer
+166,Afinitor,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/everolimus,"Breast Cancer, neuroendocrine tumours"
+167,Aldara,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/imiquimod,"Basal Cell Carcinoma, Melanoma, Skin Cancer"
+168,Alectinib (Alecensa),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/alectinib,Lung Cancer
+169,Alkeran,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/melphalan,leukaemia
+170,Alpelisib and fulvestrant,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/alpelisib-fulvestrant,Breast Cancer
+171,Anastrazole (Arimidex),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/anastrozole,Breast Cancer
+172,Apalutamide,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/apalutamide,Prostate Cancer
+173,Ara C,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cytarabine,leukaemia
+174,Arimidex,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/anastrozole,Breast Cancer
+175,Aromasin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/exemestane-aromasin,Breast Cancer
+176,Arsenic trioxide and Tretinoin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/arsenic-trioxide-tretinoin,leukaemia
+177,Asciminib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/asciminib,leukaemia
+178,"Asparaginase (Spectrila, Erwinase, Oncaspar)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/asparaginase,leukaemia
+179,Atezolizumab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/atezolizumab,Lung Cancer
+180,Atezolizumab and nab-paclitaxel,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/atezolizumab-nab-paclitaxel,Breast Cancer
+181,Avelumab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/avelumab,"Kidney Cancer, Merkel Cell Carcinoma"
+182,Axitinib (Inlyta),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/axitinib,Kidney Cancer
+183,Azacitidine (Vidaza),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/azacitidine,leukaemia
+184,BEACOPP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/beacopp,"Hodgkin Lymphoma, leukaemia"
+185,BEAM,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/beam,"Hodgkin Lymphoma, Non-Hodgkin Lymphoma, leukaemia"
+186,Bendamustine (Levact),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bendamustine,"Melanoma, Non-Hodgkin Lymphoma, Skin Cancer, leukaemia, myeloma"
+187,Besponsa,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/inotuzumab-ozogamicin,leukaemia
+190,Bicalutamide (Casodex),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bicalutamide,Prostate Cancer
+192,"Bleomycin, etoposide and platinum (BEP)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bep,"Ovarian Cancer, Testicular Cancer, leukaemia"
+193,Blinatumomab (Blincyto),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/blinatumomab,leukaemia
+194,Bortezomib (Velcade),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bortezomib,"Mantle Cell Lymphoma, Multiple Myeloma, myeloma"
+195,"Bortezomib, cyclophosphamide and dexamethasone (VCD)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/VCD,myeloma
+196,Bosulif,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bosutinib,leukaemia
+197,Bosutinib (Bosulif),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bosutinib,leukaemia
+198,Brentuximab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/brentuximab,Hodgkin Lymphoma
+199,Brigatinib (Alunbrig),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/brigatinib,Lung Cancer
+200,Buserelin (Suprefact),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/buserelin,Prostate Cancer
+201,Busulfan,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/busulfan,leukaemia
+202,CAPE-OX,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/oxaliplatin-capecitabine,"Colorectal Cancer, Stomach Cancer"
+203,CAPOX,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/oxaliplatin-capecitabine,"Colorectal Cancer, Stomach Cancer"
+204,CAV,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cav,Lung Cancer
+205,CCNU,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/lomustine-ccnu,leukaemia
+206,CHOP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/chop,"Diffuse Large B-Cell Lymphoma (DLBCL), Non-Hodgkin Lymphoma, leukaemia"
+207,CPX351,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/liposomal-daunorubicin-cytarabine-vyxeos-cpx351,"Leukemia, leukaemia"
+208,Cabazitaxel (Jevtana),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cabazitaxel,Prostate Cancer
+209,Cabometyx,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cabozantinib,"Kidney Cancer, Liver Cancer, Medullary Thyroid Cancer, Thyroid Cancer"
+210,"Cabozantinib (Cometriq, Cabometyx)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cabozantinib,"Kidney Cancer, Liver Cancer, Medullary Thyroid Cancer, Thyroid Cancer"
+213,Campto,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/irinotecan,"Esophageal Cancer, Ewing Sarcoma, Ovarian Cancer, Rhabdomyosarcoma, Sarcoma, Stomach Cancer"
+215,Caprelsa,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/vandetanib,"Breast Cancer, Prostate Cancer"
+216,CarboTaxol,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pc-paclitaxel-carboplatin,leukaemia
+218,Carboplatin and etoposide,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/carboplatin-etoposide,leukaemia
+219,Carboplatin and paclitaxel,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pc-paclitaxel-carboplatin,leukaemia
+220,Carfilzomib and dexamethasone,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/carfilzomib-dexamethasone,"Multiple Myeloma, myeloma"
+221,Carmustine (BCNU),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/carmustine,leukaemia
+222,Casodex,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bicalutamide,Prostate Cancer
+223,Cemiplimab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cemiplimab,Squamous Cell Carcinoma
+224,Ceritinib (Zykadia),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ceritinib,Lung Cancer
+225,Cetuximab (Erbitux),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cetuximab,Colorectal Cancer
+226,Chlorambucil (Leukeran),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/chlorambucil,"Hodgkin Lymphoma, Non-Hodgkin Lymphoma, leukaemia"
+227,Cisplatin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cisplatin,leukaemia
+230,"Cisplatin, etoposide and ifosfamide (VIP)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cisplatin-etoposide-ifosfamide-vip,"Testicular Cancer, leukaemia"
+231,"Cisplatin, fluorouracil (5FU) and trastuzumab",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cisplatin-fluorouracil-trastuzumab,"Stomach Cancer, leukaemia"
+232,Cladribine,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cladribine,leukaemia
+233,Clasteon,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/sodium-clodronate,"Breast Cancer, myeloma"
+235,Cometriq,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cabozantinib,"Kidney Cancer, Liver Cancer, Medullary Thyroid Cancer, Thyroid Cancer"
+237,Crisantaspase,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/asparaginase,leukaemia
+238,Crizotinib (Xalkori),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/crizotinib,Lung Cancer
+239,Cyclophosphamide,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cyclophosphamide,"Bladder Cancer, leukaemia"
+240,"Cyclophosphamide, thalidomide and dexamethasone (CTD)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ctd,"Bladder Cancer, leukaemia, myeloma"
+241,Cyprostat,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cyproterone-acetate,"Meningioma, Prostate Cancer"
+242,Cyproterone acetate,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cyproterone-acetate,"Meningioma, Prostate Cancer"
+243,"Cytarabine (Ara C, cytosine arabinoside)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cytarabine,leukaemia
+244,Cytarabine into spinal fluid (intrathecal cytarabine),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cytarabine-into-spinal-fluid,leukaemia
+245,Cytosine arabinoside,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cytarabine,leukaemia
+246,DA,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/da,leukaemia
+247,DHAP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/dhap,"Hodgkin Lymphoma, Non-Hodgkin Lymphoma, leukaemia"
+248,DTIC,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/dacarbazine,"Hodgkin Lymphoma, Melanoma, Sarcoma, Skin Cancer"
+249,Dabrafenib (Tafinlar),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/dabrafenib,"Basal Cell Carcinoma, Lung Cancer, Melanoma, Skin Cancer, Squamous Cell Carcinoma"
+250,Dabrafenib and trametinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/dabrafenib-trametinib,"Lung Cancer, Melanoma, Skin Cancer, Squamous Cell Carcinoma"
+251,Dacarbazine (DTIC),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/dacarbazine,"Hodgkin Lymphoma, Melanoma, Sarcoma, Skin Cancer"
+252,Dacomitinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/dacomitinib,Lung Cancer
+254,Daratumumab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/daratumumab,"Multiple Myeloma, myeloma"
+255,"Daratumumab, bortezomib, thalidomide and dexamethasone (DVTD)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/daratumumab-bortezomib-thalidomide-dexamethasone-dvtd,"Multiple Myeloma, myeloma"
+256,Darolutamide (Nubeqa),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/darolutamide,Prostate Cancer
+257,Darzalex,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/daratumumab,"Multiple Myeloma, myeloma"
+258,Dasatinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/dasatinib,leukaemia
+259,Daunorubicin and cytarabine (DA),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/da,leukaemia
+260,"Daunorubicin, cytarabine and midostaurin",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/midostaurin-daunorubicin-cytarabine,"Leukemia, leukaemia"
+261,Decapeptyl SR,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/triptorelin,"Breast Cancer, Prostate Cancer"
+262,Degarelix (Firmagon),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/degarelix,Prostate Cancer
+267,Docetaxel (Taxotere),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/docetaxel,Prostate Cancer
+268,"Docetaxel, cisplatin and fluorouracil (TPF)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tpf,leukaemia
+269,Dostarlimab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/dostarlimab,Endometrial Cancer
+270,Doxifos,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/doxifos,"Sarcoma, leukaemia"
+271,Doxorubicin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/doxorubicin,"Bladder Cancer, Breast Cancer, leukaemia"
+272,Doxorubicin and ifosfamide,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/doxifos,"Sarcoma, leukaemia"
+274,Durvalumab (Imfinzi),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/durvalumab,Lung Cancer
+275,EC,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ec,Breast Cancer
+276,ECF,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ecf,"Stomach Cancer, leukaemia"
+277,EOX,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/eox,"Stomach Cancer, leukaemia"
+278,EP (Etoposide and cisplatin),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ep,leukaemia
+279,ESHAP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/eshap,"Multiple Myeloma, Non-Hodgkin Lymphoma, leukaemia, myeloma"
+281,Encorafenib and binimetinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/encorafenib-binimetinib,"Basal Cell Carcinoma, Melanoma, Skin Cancer, Squamous Cell Carcinoma"
+282,Encorafenib and cetuximab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/encorafenib-cetuximab,"Colorectal Cancer, Skin Cancer"
+283,Entrectinib (Rozlytrek),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/entrectinib,Lung Cancer
+284,Enzalutamide,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/enzalutamide,Prostate Cancer
+285,Epirubicin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/epirubicin,Bladder Cancer
+286,"Epirubicin, cisplatin and capecitabine (ECX)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ecx,"Stomach Cancer, leukaemia"
+287,"Epirubicin, oxaliplatin and fluorouracil (EOF)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/eof,leukaemia
+288,Erbitux,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cetuximab,Colorectal Cancer
+289,Eribulin (Halaven),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/eribulin,"Breast Cancer, Sarcoma"
+290,Erlotinib (Tarceva),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/erlotinib,"Lung Cancer, Pancreatic Cancer"
+291,Erwinase,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/asparaginase,leukaemia
+292,Etopophos,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/etoposide,leukaemia
+293,Etoposide (Etopophos),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/etoposide,leukaemia
+294,Everolimus (Afinitor),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/everolimus,"Breast Cancer, neuroendocrine tumours"
+295,Exemestane (Aromasin),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/exemestane-aromasin,Breast Cancer
+296,FLAG,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/FLAG,"Skin Cancer, leukaemia"
+297,FLAG-Ida,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/FLAG-Ida,"Leukemia, Skin Cancer, leukaemia"
+298,FOLFIRINOX,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/folfirinox,Pancreatic Cancer
+299,FOLFOX,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/folfox,Colorectal Cancer
+300,FOLFOXIRI,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/folfoxiri,Colorectal Cancer
+301,Faslodex,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/fulvestrant-faslodex,Breast Cancer
+302,Femara,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/letrozole-femara,Breast Cancer
+304,Firmagon,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/degarelix,Prostate Cancer
+305,Fludara,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/fludarabine,leukaemia
+306,Fludarabine (Fludara),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/fludarabine,leukaemia
+307,"Fludarabine, cyclophosphamide and rituximab (FCR)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/fcr,leukaemia
+308,Fluorouracil (5FU),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/fluorouracil,Skin Cancer
+309,Fluorouracil (5FU) and mitomycin C,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/fluorouracil-mitomycin,Bladder Cancer
+311,Flutamide,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/flutamide,Prostate Cancer
+313,Fotivda,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tivozanib,Kidney Cancer
+314,Fulvestrant (faslodex),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/fulvestrant-faslodex,Breast Cancer
+316,Gefitinib (Iressa),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/gefitinib,Lung Cancer
+318,GemTaxol,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/gemtaxol,"Bladder Cancer, Breast Cancer, leukaemia"
+320,Gemcitabine and capecitabine (GemCap),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/gemcap,Pancreatic Cancer
+321,Gemcitabine and cisplatin (GC),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/gc-gemcis,leukaemia
+322,Gemcitabine and nab-paclitaxel,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/gemcitabine-nab-paclitaxel,Pancreatic Cancer
+323,Gemcitabine and paclitaxel (GemTaxol),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/gemtaxol,"Bladder Cancer, Breast Cancer, leukaemia"
+324,"Gemtuzumab ozogamicin, daunorubicin and cytarabine",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/gemtuzumab-ozogamicin-daunorubicin-cytarabine,leukaemia
+326,Gilteritinib (Xospata),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/gilteritinib-xospata,leukaemia
+327,Giotrif,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/afatinib,Lung Cancer
+329,Glivec,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/imatinib,leukaemia
+330,Gonapeptyl Depot,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/triptorelin,"Breast Cancer, Prostate Cancer"
+331,Goserelin (Zoladex) for breast cancer,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/goserelin-breast-cancer,"Breast Cancer, Prostate Cancer"
+332,Goserelin for prostate cancer,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/goserelin-prostate-cancer,"Breast Cancer, Prostate Cancer"
+334,Halaven,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/eribulin,"Breast Cancer, Sarcoma"
+335,Herceptin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab,"Breast Cancer, Esophageal Cancer, Stomach Cancer"
+336,Herzuma,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab,"Breast Cancer, Esophageal Cancer, Stomach Cancer"
+337,Hycamtin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/topotecan,"Cervical Cancer, Lung Cancer, Ovarian Cancer"
+338,Hydrea,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/hydroxycarbamide,"Skin Cancer, leukaemia"
+340,Hydroxycarbamide (Hydrea),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/hydroxycarbamide,"Skin Cancer, leukaemia"
+341,Hydroxyurea,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/hydroxycarbamide,"Skin Cancer, leukaemia"
+342,ICE,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ice,"Non-Hodgkin Lymphoma, leukaemia"
+343,IPE,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cisplatin-etoposide-ifosfamide-vip,"Testicular Cancer, leukaemia"
+344,Ibandronic acid (Bondronat),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ibandronic-acid,Breast Cancer
+345,Ibrance,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/palbociclib,Breast Cancer
+346,Ibrutinib (Imbruvica),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ibrutinib,"Melanoma, Skin Cancer, leukaemia"
+348,Iclusig,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ponatinib,leukaemia
+349,Idarubicin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/idarubicin,leukaemia
+351,Imatinib (Glivec),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/imatinib,leukaemia
+352,Imiquimod cream (Aldara),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/imiquimod,"Basal Cell Carcinoma, Melanoma, Skin Cancer"
+353,Inotuzumab ozogamicin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/inotuzumab-ozogamicin,leukaemia
+354,Ipilimumab (Yervoy),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ipilimumab-yervoy,"Melanoma, Mesothelioma"
+355,Ipilimumab and nivolumab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ipilimumab-nivolumab,"Colorectal Cancer, Melanoma, Mesothelioma"
+357,Iressa,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/gefitinib,Lung Cancer
+358,Irinotecan (Campto),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/irinotecan,"Esophageal Cancer, Ewing Sarcoma, Ovarian Cancer, Rhabdomyosarcoma, Sarcoma, Stomach Cancer"
+362,Ivosidenib (Tibsovo),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ivosidenib-tibsovo,"Cholangiocarcinoma, leukaemia"
+363,"Ixazomib, lenalidomide and dexamethasone",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ixazomib-lenalidomide-dexamethasone,"Basal Cell Carcinoma, Multiple Myeloma, Skin Cancer, Squamous Cell Carcinoma, myeloma"
+364,Jevtana,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cabazitaxel,Prostate Cancer
+365,Kadcyla,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab-emtansine,Breast Cancer
+368,Kisqali,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ribociclib,Breast Cancer
+369,L-DA,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/liposomal-daunorubicin-cytarabine-vyxeos-cpx351,"Leukemia, leukaemia"
+370,Lanreotide (Somatuline),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/lanreotide-somatuline,"Neuroendocrine Tumors, neuroendocrine tumours"
+372,Lenalidomide (Revlimid),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/lenalidomide,"Mantle Cell Lymphoma, Melanoma, Skin Cancer, myeloma"
+373,Lenvatinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/lenvatinib,"Endometrial Cancer, Kidney Cancer, Thyroid Cancer"
+374,Letrozole (Femara),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/letrozole-femara,Breast Cancer
+375,Leukeran,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/chlorambucil,"Hodgkin Lymphoma, Non-Hodgkin Lymphoma, leukaemia"
+376,Leuprorelin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/leuprorelin,"Breast Cancer, Prostate Cancer"
+377,Leustat,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cladribine,leukaemia
+378,Levact,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bendamustine,"Melanoma, Non-Hodgkin Lymphoma, Skin Cancer, leukaemia, myeloma"
+379,"Liposomal daunorubicin and cytarabine (Vyxeos, CPX351, L-DA)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/liposomal-daunorubicin-cytarabine-vyxeos-cpx351,"Leukemia, leukaemia"
+381,Litak,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/cladribine,leukaemia
+382,Lomustine,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/lomustine-ccnu,leukaemia
+384,Lorlatinib (Lorviqua),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/lorlatinib,Lung Cancer
+385,Lutrate,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/leuprorelin,"Breast Cancer, Prostate Cancer"
+386,Lynparza,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/olaparib-lynparza,"Ovarian Cancer, Prostate Cancer"
+388,MAP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/MAP,"Osteosarcoma, leukaemia"
+389,MMM,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/mmm,"Breast Cancer, leukaemia"
+391,MVAC,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/mvac,"Bladder Cancer, leukaemia"
+393,Mabthera,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/rituximab,leukaemia
+394,Medroxyprogesterone acetate (Provera),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/medroxyprogesterone,"Breast Cancer, Kidney Cancer, Prostate Cancer"
+395,Megace,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/megestrol-acetate,Breast Cancer
+396,Megestrol acetate (Megace),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/megestrol-acetate,Breast Cancer
+397,Melphalan,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/melphalan,leukaemia
+398,Mepact,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/mifamurtide,Osteosarcoma
+399,Mercaptopurine (Xaluprine),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/mercaptopurine,leukaemia
+400,Methotrexate,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/methotrexate-maxtrex,leukaemia
+402,Midostaurin (Rydapt),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/midostaurin,"Leukemia, leukaemia"
+403,Mifamurtide,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/mifamurtide,Osteosarcoma
+404,Mitomycin C,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/mitomycinc,Bladder Cancer
+407,Mitoxantrone (Mitozantrone),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/mitoxantrone,"Breast Cancer, Non-Hodgkin Lymphoma, Prostate Cancer, leukaemia"
+408,Mobocertinib (Exkivity),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/mobocertinib,Lung Cancer
+412,Nab paclitaxel (Abraxane),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/nab-paclitaxel,"Breast Cancer, Pancreatic Cancer"
+413,Navelbine,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/vinorelbine-navelbine,"Breast Cancer, Lung Cancer, Mesothelioma"
+414,Nelarabine (Atriance),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/nelarabine,leukaemia
+415,Neratinib (Nerlynx),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/neratinib,Breast Cancer
+416,Nerlynx,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/neratinib,Breast Cancer
+417,Nexavar,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/sorafenib,"Kidney Cancer, Liver Cancer, Skin Cancer, Thyroid Cancer"
+418,Nilotinib (Tasigna),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/nilotinib,leukaemia
+419,Nintedanib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/nintedanib,Lung Cancer
+420,Nipent,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pentostatin,"Skin Cancer, leukaemia"
+421,Niraparib (Zejula),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/niraparib,Primary Peritoneal Cancer
+423,Obinutuzumab (Gazyvaro),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/obinutuzumab,"Basal Cell Carcinoma, Skin Cancer, Squamous Cell Carcinoma, leukaemia"
+424,Octreotide,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/octreotide-sandostatin,"Neuroendocrine Tumors, neuroendocrine tumours"
+425,Olaparib (Lynparza),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/olaparib-lynparza,"Ovarian Cancer, Prostate Cancer"
+426,Ontruzant,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab,"Breast Cancer, Esophageal Cancer, Stomach Cancer"
+429,Osimertinib (Tagrisso),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/osimertinib,Lung Cancer
+430,OxCap,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/oxaliplatin-capecitabine,"Colorectal Cancer, Stomach Cancer"
+431,Oxaliplatin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/oxaliplatin-eloxatin,"Colorectal Cancer, Pancreatic Cancer"
+432,Oxaliplatin and capecitabine (Xelox),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/oxaliplatin-capecitabine,"Colorectal Cancer, Stomach Cancer"
+433,PC,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pc-paclitaxel-carboplatin,leukaemia
+434,PE,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ep,leukaemia
+435,PMitCEBO,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pmitcebo,"Non-Hodgkin Lymphoma, leukaemia"
+437,"Paclitaxel and carboplatin (PC, CarboTaxol)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pc-paclitaxel-carboplatin,leukaemia
+438,Palbociclib (Ibrance),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/palbociclib,Breast Cancer
+439,Pamidronate,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/disodium-pamidronate,myeloma
+440,Pamidronate disodium,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/disodium-pamidronate,myeloma
+443,"Panobinostat, bortezomib and dexamethasone",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/panobinostat-bortezomib-dexamethasone,"Multiple Myeloma, myeloma"
+445,Pazopanib (Votrient),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pazopanib-votrient,Kidney Cancer
+446,Peginterferon alfa 2a,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/peginterferon-alfa-2a,Liver Cancer
+448,Pemetrexed (Alimta),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pemetrexed,"Lung Cancer, Mesothelioma"
+449,Pemetrexed and carboplatin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pemetrexed-carboplatin,"Lung Cancer, Mesothelioma"
+450,Pemetrexed and cisplatin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pemetrexed-cisplatin,"Lung Cancer, Mesothelioma, leukaemia"
+451,Pemigatinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pemigatinib,Cholangiocarcinoma
+452,Pentostatin (Nipent),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pentostatin,"Skin Cancer, leukaemia"
+453,Perjeta,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pertuzumab,Breast Cancer
+454,Pertuzumab (Perjeta),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pertuzumab,Breast Cancer
+455,Phesgo or trastuzumab and pertuzumab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab-pertuzumab,Breast Cancer
+456,"Polatuzumab vedotin, bendamustine and rituximab (Pola-BR)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/polatuzumab-vedotin-bendamustine-rituximab,leukaemia
+457,Pomalidomide and dexamethasone,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pomalidomide-dexamethasone,"Basal Cell Carcinoma, Multiple Myeloma, Squamous Cell Carcinoma, myeloma"
+458,Ponatinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ponatinib,leukaemia
+460,Procarbazine,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/procarbazine,leukaemia
+461,"Procarbazine, lomustine and vincristine (PCV)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pcv,leukaemia
+463,Prostap,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/leuprorelin,"Breast Cancer, Prostate Cancer"
+464,Provera,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/medroxyprogesterone,"Breast Cancer, Kidney Cancer, Prostate Cancer"
+465,R-CHOP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/r-chop,"Hodgkin Lymphoma, Non-Hodgkin Lymphoma, leukaemia"
+466,R-CVP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/r-cvp,Non-Hodgkin Lymphoma
+467,R-DHAP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/r-dhap,"Non-Hodgkin Lymphoma, leukaemia"
+468,R-ESHAP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/r-eshap,leukaemia
+469,R-GCVP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/r-gcvp,"Hodgkin Lymphoma, Non-Hodgkin Lymphoma, leukaemia"
+470,R-Idelalisib (Zydelig),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/idelalisib-rituximab,"Leukemia, leukaemia"
+471,RICE,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/rice,"Hodgkin Lymphoma, Non-Hodgkin Lymphoma"
+472,Raloxifene,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/raloxifene,Breast Cancer
+474,Regorafenib (Stivarga),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/regorafenib,"Liver Cancer, Melanoma, Sarcoma, Skin Cancer, Squamous Cell Carcinoma"
+475,Revlimid,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/lenalidomide,"Mantle Cell Lymphoma, Melanoma, Skin Cancer, myeloma"
+476,Ribociclib (Kisqali),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ribociclib,Breast Cancer
+477,Rituximab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/rituximab,leukaemia
+478,Rixathon,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/rituximab,leukaemia
+479,Rubraca,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/rucaparib,leukaemia
+480,Rucaparib (Rubraca),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/rucaparib,leukaemia
+481,Ruxience,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/rituximab,leukaemia
+482,Ruxolitinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ruxolitinib,"Melanoma, Skin Cancer"
+483,Sacituzumab govitecan (Trodelvy),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/sacituzumab-govitecan,Breast Cancer
+484,Selpercatinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/selpercatinib,"Lung Cancer, Medullary Thyroid Cancer, Thyroid Cancer"
+486,Sodium clodronate (Loron),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/sodium-clodronate,"Breast Cancer, myeloma"
+488,Sorafenib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/sorafenib,"Kidney Cancer, Liver Cancer, Skin Cancer, Thyroid Cancer"
+490,Stivarga,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/regorafenib,"Liver Cancer, Melanoma, Sarcoma, Skin Cancer, Squamous Cell Carcinoma"
+491,Streptozocin (Zanosar),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/streptozocin-zanosar,neuroendocrine tumours
+492,Sunitinib (Sutent),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/sunitinib,"Kidney Cancer, Sarcoma, neuroendocrine tumours"
+493,Sutent,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/sunitinib,"Kidney Cancer, Sarcoma, neuroendocrine tumours"
+494,TIP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tip,"Ovarian Cancer, Testicular Cancer, leukaemia"
+495,Tafinlar,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/dabrafenib,"Basal Cell Carcinoma, Lung Cancer, Melanoma, Skin Cancer, Squamous Cell Carcinoma"
+496,Tagrisso,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/osimertinib,Lung Cancer
+497,Talazoparib (Talzeena),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/talazoparib,"Breast Cancer, leukaemia"
+498,Talimogene laherparepvec (T-VEC),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/talimogene-laherparepvec,"Melanoma, Plasmacytoma, Skin Cancer"
+499,Tamoxifen,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tamoxifen,Breast Cancer
+500,Tarceva,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/erlotinib,"Lung Cancer, Pancreatic Cancer"
+502,Tasigna,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/nilotinib,leukaemia
+504,Taxotere,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/docetaxel,Prostate Cancer
+505,Taxotere and cyclophosphamide (TC),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tc,"Breast Cancer, leukaemia"
+506,Tecentriq,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/atezolizumab,Lung Cancer
+507,Temodal,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/temozolomide,"leukaemia, neuroendocrine tumours"
+508,Temozolomide (Temodal),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/temozolomide,"leukaemia, neuroendocrine tumours"
+510,Tepotinib,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tepotinib,Lung Cancer
+512,Tivozanib (Fotivda),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tivozanib,Kidney Cancer
+514,Topotecan (Hycamtin),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/topotecan,"Cervical Cancer, Lung Cancer, Ovarian Cancer"
+515,Trabectedin (Yondelis),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trabectedin,"Ovarian Cancer, Sarcoma"
+516,Trastuzumab (Herceptin),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab,"Breast Cancer, Esophageal Cancer, Stomach Cancer"
+517,Trastuzumab and pertuzumab,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab-pertuzumab,Breast Cancer
+518,Trastuzumab deruxtecan,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab-deruxtecan,Breast Cancer
+519,Trastuzumab emtansine (Kadcyla),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab-emtansine,Breast Cancer
+522,Triptorelin,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/triptorelin,"Breast Cancer, Prostate Cancer"
+523,Trisenox,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/arsenic,leukaemia
+524,Truxima,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/rituximab,leukaemia
+525,"Tucatinib, trastuzumab and capecitabine",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tucatinib-trastuzumab-capecitabine,Breast Cancer
+527,VDC/IE,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/vdc-ie,"Bladder Cancer, Ewing Sarcoma, Sarcoma, leukaemia"
+528,VIDE,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/vide,"Sarcoma, leukaemia"
+529,Vargatef,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/nintedanib,Lung Cancer
+530,VeIP,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/veip,"Testicular Cancer, leukaemia"
+532,Velcade,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/bortezomib,"Mantle Cell Lymphoma, Multiple Myeloma, myeloma"
+533,Vemurafenib (Zelboraf),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/vemurafenib,"Basal Cell Carcinoma, Melanoma, Pancreatic Cancer, Skin Cancer, Squamous Cell Carcinoma, leukaemia"
+534,Venetoclax (Venclyxto),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/venetoclax,leukaemia
+535,Vesanoid,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/tretinoin,leukaemia
+536,Vidaza,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/azacitidine,leukaemia
+539,"Vincristine, actinomycin D and cyclophosphamide (VAC)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/vac,"Bladder Cancer, Ewing Sarcoma, Rhabdomyosarcoma, Sarcoma, leukaemia"
+540,"Vincristine, actinomycin D and ifosfamide (VAI)",https://www.cancerresearchuk.org/about-cancer/treatment/drugs/vai,"Sarcoma, leukaemia"
+541,Vinorelbine (Navelbine),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/vinorelbine-navelbine,"Breast Cancer, Lung Cancer, Mesothelioma"
+542,Votrient,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/pazopanib-votrient,Kidney Cancer
+543,Vyxeos,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/liposomal-daunorubicin-cytarabine-vyxeos-cpx351,"Leukemia, leukaemia"
+544,XELOX,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/oxaliplatin-capecitabine,"Colorectal Cancer, Stomach Cancer"
+545,Xalkori,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/crizotinib,Lung Cancer
+548,Xospata,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/gilteritinib-xospata,leukaemia
+549,Xtandi,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/enzalutamide,Prostate Cancer
+550,Yervoy,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/ipilimumab-yervoy,"Melanoma, Mesothelioma"
+551,Yondelis,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trabectedin,"Ovarian Cancer, Sarcoma"
+552,Zanosar,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/streptozocin-zanosar,neuroendocrine tumours
+553,Zelboraf,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/vemurafenib,"Basal Cell Carcinoma, Melanoma, Pancreatic Cancer, Skin Cancer, Squamous Cell Carcinoma, leukaemia"
+554,Zoladex (breast cancer),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/goserelin-breast-cancer,"Breast Cancer, Prostate Cancer"
+555,Zoladex (prostate cancer),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/goserelin-prostate-cancer,"Breast Cancer, Prostate Cancer"
+556,Zoledronic acid (Zometa),https://www.cancerresearchuk.org/about-cancer/treatment/drugs/zoledronic-acid,"Breast Cancer, myeloma"
+557,Zometa,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/zoledronic-acid,"Breast Cancer, myeloma"
+559,Zydelig,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/idelalisib-rituximab,"Leukemia, leukaemia"
+560,Zytiga,https://www.cancerresearchuk.org/about-cancer/treatment/drugs/abiraterone,Prostate Cancer
