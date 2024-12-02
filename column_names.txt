@@ -193,8 +193,6 @@ UniProt (TrEMBL) Primary ID of Target Chain.12
 UniProt (TrEMBL) Secondary ID(s) of Target Chain.12
 UniProt (TrEMBL) Alternative ID(s) of Target Chain.12
 Unique_ID
-id
-name
 unii
 toxicity
 class_kingdom
