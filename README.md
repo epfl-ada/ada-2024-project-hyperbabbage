@@ -1,5 +1,5 @@
 # Project Proposal: **Mapping and Understanding the Fight Against Cancer Using BindingDB**
-## Abstract (150 words)
+## Abstract
 This project explores cancer treatment evolution through an analysis of cancer-related data from BindingDB, focusing on how research trends have changed over time and what these trends reveal about treatment progress. This project aims at understanding relationships between ligands and proteins to extract valuable information on cancer treatment. By investigating how the proportions of treatments vary among cancer types, as well as the impact of treatments targeting mutant proteins, we assess how current approaches address challenges posed by cancer mutations, pathways, and side effects. Our goal is to tell the story of cancer treatment advancements, identifying pivotal research milestones and revealing insights on the struggles due to side effects. This work ultimately illustrates the role of molecular interaction data in advancing cancer research and addressing critical health challenges.
 
 ## Research Questions 	 
