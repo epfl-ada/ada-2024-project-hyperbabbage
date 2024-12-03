@@ -2,7 +2,7 @@ from typing import List
 import pandas as pd
 import os
 import numpy as np
-from tqdm import tqdm
+from tqdm.notebook import tqdm
 
 """
 The main idea:  We want to maximize the amount of data remaining after merge between BindingDB and DrugBank
