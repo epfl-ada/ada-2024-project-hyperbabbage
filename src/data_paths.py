@@ -10,5 +10,6 @@ DRUGBANK_LIGAND_PARSED = DATA_RAW + 'parsed_DrugBank_ligand.pkl'
 DRUGBANK_PROTEIN_PARSED = DATA_RAW + 'parsed_DrugBank_protein.pkl'
 
 MERGED = DATA_CLEAN + 'merged_dataframe.pkl'
+COSMIC_PROTEINS = DATA_CLEAN + 'protein_class_COSMIC.tsv'
 
 DOI_DF_PATH = DATA_CLEAN +'df_doi.pkl'
