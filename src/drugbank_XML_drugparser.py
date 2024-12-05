@@ -84,13 +84,13 @@ class DrugParser:
                             proteins_attributes['swissprot_protein_id'] = feature.get('id')
                             for attribute in list(feature):  # Iterate over all attributes of the protein
                                 if 'name' in str(attribute):
-                                    proteins_attributes['name'] = attribute.text
+                                    proteins_attributes['drugbank_protein_name'] = attribute.text
                                 if 'general-function' in str(attribute):
-                                    proteins_attributes['general-function'] = attribute.text
+                                    proteins_attributes['drugbank_protein_general_function'] = attribute.text
                                 if 'specific-function' in str(attribute):
-                                    proteins_attributes['specific-function'] = attribute.text
+                                    proteins_attributes['drugbank_protein_specific_function'] = attribute.text
                                 if 'organism' in str(attribute):
-                                    proteins_attributes['organism'] = attribute.text
+                                    proteins_attributes['drugbank_protein_organism'] = attribute.text
 
                             # Append the attributes as a dictionary to the proteins list
                             proteins.append(proteins_attributes)
@@ -114,39 +114,39 @@ class DrugParser:
             feature_name = feature.tag
 
             if 'name' in feature_name: # drug name
-                drug_properties['name'] = feature.text
+                drug_properties['drugbank_drug_name'] = feature.text
 
             if 'synonyms' in feature_name: # drug's synonyms
                 drug_synm = '|'.join([synm.text for synm in list(feature)])
-                drug_properties['synonyms'] = drug_synm
+                drug_properties['drugbank_drug_synonyms'] = drug_synm
                 
             if 'toxicity' in feature_name: # drug's toxicity
-                drug_properties['toxicity'] = feature.text
+                drug_properties['drugbank_drug_toxicity'] = feature.text
 
             if 'unii' in feature_name: # drug's UNII
-                drug_properties['unii'] = feature.text
+                drug_properties['drugbank_drug_unii'] = feature.text
 
             if 'categories' in feature_name: # drug's categories
                 drug_categories = '|'.join([cat[0].text for cat in list(feature)])
-                drug_properties['categories'] = drug_categories
+                drug_properties['drugbank_drug_categories'] = drug_categories
 
             if 'classification' in feature_name: #type of drug
                 classifications = list(feature)
                 drug_class_kingdom = classifications[2].text
                 drug_class_superclass = classifications[3].text
-                drug_properties['class_kingdom'] = drug_class_kingdom
-                drug_properties['class_superclass'] = drug_class_superclass
+                drug_properties['drugbank_drug_class_kingdom'] = drug_class_kingdom
+                drug_properties['drugbank_drug_class_superclass'] = drug_class_superclass
 
             if 'drug-interactions' in feature_name: #interaction other drugs
                 drug_interaction = '|'.join([di[0].text
                                             for di in list(feature)])
-                drug_properties['interaction'] = drug_interaction
+                drug_properties['drugbank_drug_interaction'] = drug_interaction
                 
             if 'patents' in feature_name:
                 patents_list = list(feature)
                 if len(patents_list) > 0:
                     drug_patent_approved = '|'.join([cat[2].text for cat in patents_list])
-                    drug_properties['patent_approved'] = drug_patent_approved
+                    drug_properties['drugbank_drug_patent_approved'] = drug_patent_approved
 
             if 'calculated-properties' in feature_name: # drug's categories
                 for calc_prop in list(feature):
