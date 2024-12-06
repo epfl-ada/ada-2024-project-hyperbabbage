@@ -3,13 +3,12 @@
 This project explores cancer treatment evolution through an analysis of cancer-related data from BindingDB, focusing on how research trends have changed over time and what these trends reveal about treatment progress. This project aims at understanding relationships between ligands and proteins to extract valuable information on cancer treatment. By investigating how the proportions of treatments vary among cancer types, as well as the impact of treatments targeting mutant proteins, we assess how current approaches address challenges posed by cancer mutations, pathways, and side effects. Our goal is to tell the story of cancer treatment advancements, identifying pivotal research milestones and revealing insights on the struggles due to side effects. This work ultimately illustrates the role of molecular interaction data in advancing cancer research and addressing critical health challenges.
 
 ## Research Questions 	 
-1. How has the number of treatments evolved through time?
-2.  Are there any cancer-related proteins that rapidly became major research targets?
-3.  Which cancer-related proteins are most frequently targeted by therapeutic drugs, based on BindingDB and DrugBank data?
-4. How many mutants does every cancer-related protein have, and how effective are the ligands against these mutants? 
-5. What are the key ligands that ultimately get approved as drugs, and what are there binding/inhibiting/concatring/kinetic properties? 
-6. How do mutations in cancer-related proteins influence the binding affinity of therapeutic drugs and treatment success, knowing that cancer cells mutate to gain treatment resistance?
-7. What are the side effects of ligands that show great properties against cancer ? 
+1. How has the number of treatments evolved through time? Miki and Kam
+2. Are there any cancer-related proteins that rapidly became major research targets? Miki and Kam 
+3. Which cancer-related proteins are most frequently targeted by therapeutic drugs, based on BindingDB and DrugBank data? Mathis
+4. How many mutants does every cancer-related protein have, and how effective are the ligands against these mutants? Matheo 
+5. What are the key ligands that ultimately get approved as drugs, and what are there binding/inhibiting/concatring/kinetic properties? Seb 
+6. What are the side effects of ligands that show great properties against cancer ? Seb
 
 ## Additional datasets
 While **BindingDB** will serve as the primary dataset, **DrugBank** provides valuable information on treatment approval, side effects, and other pharmacological properties of the ligands. 
