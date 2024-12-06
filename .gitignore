@@ -3,3 +3,4 @@ data/**
 __pycache__/**
 .ipynb_checkpoints/**
 src/__pycache__/**
+graph_data/*.gephi
