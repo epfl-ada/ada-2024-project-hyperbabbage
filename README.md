@@ -67,5 +67,10 @@ Create template to read BindingDB efficiently > mySQL > tsv
 Preprocessing of the data - data cleaning 	
 Identify proteins, which are related to cancer
 Get a better understanding on Chemical cancer treatment to understand the main metabolic pathways 
-Define all cancer-related parameters that could show interesting trends over the years and will help us lay out the story of the fight against cancer 
+Define all cancer-related parameters that could show interesting trends over the years and will help us lay out the story of the fight against cancer
+
+
+
+#### Access data
+- download from the drive [] the Merged Dataframe corrected zip, and the protein_class_COSMIC.tsv and extract into: data/clean folder
 
