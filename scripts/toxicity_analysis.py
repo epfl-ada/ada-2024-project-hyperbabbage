@@ -51,7 +51,7 @@ class ToxicityAnalysis:
 
         cancer_most_studied_drugs = filtered_df_highly_studied.drugbank_drug_name.unique()
 
-        # rows from df_matched that have a drugbank_drug_name that is in cancer_most_studied_drugs
+        ### We keep rows from df_matched that have a drugbank_drug_name that is in cancer_most_studied_drugs
         cancer_most_studied_df = df_matched[df_matched['drugbank_drug_name'].isin(cancer_most_studied_drugs)]
         cancer_most_studied_df.reset_index(inplace=True)
 
