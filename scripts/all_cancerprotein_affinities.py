@@ -11,7 +11,7 @@ import matplotlib.patches as mpatches
 #################
 #   Class Description:
 #################
-class Cancer_Related_Affinities:
+class All_Cancerprotein_Affinities:
     def __init__(self):
         self.merged_df, self.protein_classes = self.load_dataset()
         self.drug_biological_process = self.initialize_filtered_df()

@@ -202,9 +202,10 @@ class TimeTrends:
         years = np.arange(min_year, max_year+1)
         max_y = 0
         
-
+        
         all_counts_array = []
-        for _,dois in manually_well_studied_proteins.items():
+
+        for wsp,dois in manually_well_studied_proteins.items():
             df_doi_related = self.df_doi[self.df_doi.index.isin(dois)]
             
             df_doi_related = df_doi_related.dropna(subset=['year'], inplace=False)
@@ -221,5 +222,41 @@ class TimeTrends:
         plt.title('Number of scientific articles in BindingDB by year of publication')
         plt.legend()
         plt.show()
+    
+
+    def get_year_publication(self):
+        years_pub =  self.df_doi.dropna(subset=['year']).value_counts('year').sort_index()
+        list_years = list(years_pub.index)
+        list_publications = [int(years_pub[year]) for year in list_years]
+        return list_years, list_publications
+    
+    def stackplot_year_publication(self):
+        keys_list = [k for k,v in self.well_studied_proteins_cancer_relationship.items() if v]
+        manually_well_studied_proteins = {k: self.well_studied_proteins[k] for k in keys_list if k in self.well_studied_proteins}
+        well_studied_proteins_all_dois = set().union(*manually_well_studied_proteins.values())
+
+
+        df_doi_related = self.df_doi[self.df_doi.index.isin(well_studied_proteins_all_dois)]
+        min_year = df_doi_related['year'].min()
+        max_year = df_doi_related['year'].max()
+        years = np.arange(min_year, max_year+1)
+        max_y = 0
+        
+        
+        all_counts_array = []
+        prot_count_dict = {}
+        for wsp,dois in manually_well_studied_proteins.items():
+            df_doi_related = self.df_doi[self.df_doi.index.isin(dois)]
+            
+            df_doi_related = df_doi_related.dropna(subset=['year'], inplace=False)
+
+            counts_some = df_doi_related.value_counts('year')
+            counts_all = [int(counts_some[y]) if y in counts_some.index else 0 for y in years]
+            all_counts_array.append(counts_all)
+
+            max_y = max(max_y, max(counts_all))
+            prot_count_dict[wsp] = counts_all
+        
+        return years, prot_count_dict
     
     
