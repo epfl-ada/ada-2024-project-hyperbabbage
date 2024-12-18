@@ -11,6 +11,9 @@ from collections import Counter
 from bs4 import BeautifulSoup
 import seaborn as sns
 
+#################
+#   Class Description: This class is used to understand the toxicity score of the drugs.
+#################
 class ToxicityAnalysis:
     def __init__(self):
         self.df, self.cancer_df = self.load_dataset()

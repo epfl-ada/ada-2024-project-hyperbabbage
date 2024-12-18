@@ -6,8 +6,10 @@ import numpy as np
 import os
 from matplotlib import pyplot as plt
 
-
-class TimeTrends():
+#################
+#    Class Description:  This class is used to analyze the time trends in the BindingDB dataset.
+#################
+class TimeTrends:
     def __init__(self):
         self.cancer_well_studied_proteins = None
         self.df_bindingdb, self.df_doi = self.initialize_datasets()
