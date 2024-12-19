@@ -77,10 +77,25 @@ Week 13 : Conclude and present the storyline on our website.
     - Time trends analysis
     - GPT for cancer-related proteins identification
     - Massive code cleanup
+  - Mathis Finckh : 
+    - Initial trials on cancer-related protein search : 
+    - through related cancer-drugs (web-scrapping)
+    - through keyword search
+    - Toxicity analysis
+    - Part of the content of the data story
+  - Matheo Godenzi : 
+    - storyline idea 
+    - ⁠collecting metadata 
+    - ⁠merge review
+    - ⁠chemical analysis 
+    - ⁠cancer process identification and analysis 
+    - ⁠website content writing
 
 
 
 ## Running the analysis
+All results are produced by the `./results.ipynb` notebook.
+
 ### Enviornment
 Create a the conda environment by running the following command in the root of the project:
 ```bash
@@ -92,17 +107,7 @@ Activate the environment by running:
 conda activate ./.conda
 ```
 
-###
+### Data
 You can download both clean and processed data from [Google Drive](TODO). Please place the `data` folder in the root directory of the project.
 
 If you would like to create the clean data yourself, delete the contents of `data/clean` folder and run `./preprocessing.ipynb`. Please note that you will need ~32GB of memory to merge BindingDB and DrugBank, and fetching the metadata about research based on DOI from an API takes at least an hour.
-
-
-```
-
-The analysis is done on processed data.
-
-
-
-- download from the drive [] the Merged Dataframe corrected zip, and the protein_class_COSMIC.tsv and extract into: data/clean folder
-
