@@ -1,4 +1,7 @@
 # Project Proposal: **Mapping and Understanding the Fight Against Cancer Using BindingDB**
+
+Please read our [data story](TODO).
+
 ## Abstract
 This project explores cancer treatment evolution through an analysis of cancer-related data from BindingDB, focusing on how research trends have changed over time and what these trends reveal about treatment progress. This project aims at understanding relationships between ligands and proteins to extract valuable information on cancer treatment. By investigating how the proportions of treatments vary among cancer types, as well as the impact of treatments targeting mutant proteins, we assess how current approaches address challenges posed by cancer mutations, pathways, and side effects. Our goal is to tell the story of cancer treatment advancements, identifying pivotal research milestones and revealing insights on the struggles due to side effects. This work ultimately illustrates the role of molecular interaction data in advancing cancer research and addressing critical health challenges.
 
@@ -84,12 +87,12 @@ Week 13 : Conclude and present the storyline on our website.
     - Toxicity analysis
     - Part of the content of the data story
   - Matheo Godenzi : 
-    - storyline idea 
-    - ⁠collecting metadata 
-    - ⁠merge review
-    - ⁠chemical analysis 
-    - ⁠cancer process identification and analysis 
-    - ⁠website content writing
+    * storyline idea 
+    * ⁠collecting metadata 
+    * ⁠merge review
+    * ⁠chemical analysis 
+    * ⁠cancer process identification and analysis 
+    * ⁠website content writing
 
 
 
@@ -108,6 +111,6 @@ conda activate ./.conda
 ```
 
 ### Data
-You can download both clean and processed data from [Google Drive](TODO). Please place the `data` folder in the root directory of the project.
+You can download both clean and processed data from [Google Drive](https://drive.google.com/file/d/1J1f1xcV4c9FIRCuid7s0Gyv6gxitS68N/view?usp=drive_link). Please place the `data` folder in the root directory of the project.
 
 If you would like to create the clean data yourself, delete the contents of `data/clean` folder and run `./preprocessing.ipynb`. Please note that you will need ~32GB of memory to merge BindingDB and DrugBank, and fetching the metadata about research based on DOI from an API takes at least an hour.

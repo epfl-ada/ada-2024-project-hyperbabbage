@@ -6,8 +6,8 @@ BINDINGDB_RAW = DATA_RAW + 'BindingDB_All.tsv'
 BINDINGDB_CLEAN = DATA_CLEAN + 'BindingDB_Cleaned.pkl'
 
 DRUGBANK_XML = DATA_RAW + 'full_database.xml'
-DRUGBANK_LIGAND_PARSED = DATA_RAW + 'parsed_DrugBank_ligand.pkl'
-DRUGBANK_PROTEIN_PARSED = DATA_RAW + 'parsed_DrugBank_protein.pkl'
+DRUGBANK_LIGAND_PARSED = DATA_CLEAN + 'parsed_DrugBank_ligand.pkl'
+DRUGBANK_PROTEIN_PARSED = DATA_CLEAN + 'parsed_DrugBank_protein.pkl'
 LIGANDS_RELATED_TO_PROTEIN = DATA_CLEAN + 'ligands_related_to_cancer_proteins.pkl'
 
 MERGED = DATA_CLEAN + 'merged_dataframe.pkl'
