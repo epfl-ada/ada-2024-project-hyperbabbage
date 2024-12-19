@@ -5,7 +5,7 @@ import numpy as np
 import re
 import matplotlib.pyplot as plt
 import seaborn as sns
-from Chemical_analysis import bootstrap, bootstrap_chemical_param
+from scripts.utils.Chemical_analysis import bootstrap, bootstrap_chemical_param
 import matplotlib.patches as mpatches
 
 #################
@@ -77,7 +77,8 @@ class All_Cancerprotein_Affinities:
         sizes = data["sizes"].values
         palette = sns.color_palette("inferno", n_colors=len(categories))
         colors = [palette[i] for i in range(len(categories))]
-
+        print("categories", categories)
+        print("sizes", sizes)
         # Create the pie chart
         plt.figure(figsize=(10, 8))
         plt.pie(
@@ -121,3 +122,26 @@ class All_Cancerprotein_Affinities:
 
         # Display the chart
         plt.show()
+    
+    def get_circle_percentages_categories(self):
+        # Extract sizes and categories
+        sizes = self.drug_biological_process["drugbank_drug_name"].values
+        categories = self.drug_biological_process["Biological process"].values
+
+        # Calculate total and percentages
+        total_size = sum(sizes)
+        percentages = (sizes / total_size) * 100
+
+        # Create a new DataFrame with aggregated "Others"
+        data = pd.DataFrame({"Biological process": categories, "sizes": sizes, "percentages": percentages})
+        others = data[data["percentages"] < 1].sum()  # Sum small categories into "Others"
+        data = data[data["percentages"] >= 1]  # Keep large categories
+        if not others.empty:
+            data = pd.concat([data, pd.DataFrame({"Biological process": ["Others"], "sizes": [others["sizes"]], "percentages": [others["percentages"]]})])
+
+        # Generate a color palette for the updated categories
+        categories = data["Biological process"].values
+        sizes = data["sizes"].values
+        percentages = [float(round(i/sum(sizes)*100,1)) for i in sizes]
+
+        return percentages, categories

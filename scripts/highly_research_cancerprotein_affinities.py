@@ -5,7 +5,7 @@ import numpy as np
 import re
 import matplotlib.pyplot as plt
 import seaborn as sns
-from Chemical_analysis import bootstrap, bootstrap_chemical_param
+from scripts.utils.Chemical_analysis import bootstrap, bootstrap_chemical_param
 import matplotlib.patches as mpatches
 
 #################
@@ -60,6 +60,11 @@ class Highly_Research_Cancerprotein_Affinities:
         sns.heatmap(correlation_matrix, annot=False, cmap='coolwarm', fmt='.2f', cbar=True, square=True)
         plt.title('Correlation Matrix Heatmap of affinity parameters', size=20)
         plt.show()
+    
+    def get_colleration_mtx_values(self):
+        merged_df_chemical_param = self.merged_df[self.chemical_param_list]
+        correlation_matrix = merged_df_chemical_param.corr(method='pearson')
+        return correlation_matrix
     
     def plot_binding_measurements_to_drug_presence(self):
         custom_palette = {
