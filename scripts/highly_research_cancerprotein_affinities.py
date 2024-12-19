@@ -66,16 +66,14 @@ class Highly_Research_Cancerprotein_Affinities:
         correlation_matrix = merged_df_chemical_param.corr(method='pearson')
         return correlation_matrix
     
-    def plot_binding_measurements_to_drug_presence(self):
+    def plot_binding_measurements_to_drug_presence(self, background_color="white"):
         custom_palette = {
             "Without DrugBank Drug": "royalblue",  ### Blue means Present
             "With DrugBank Drug": "orange",  ### Orange means Absent
         }
 
         _, axes = plt.subplots(2, 2, figsize=(20, 15))
-
         axes = axes.flatten()
-
         for i, col in enumerate(self.chemical_param_list):
             data = self.filtered_df[(self.filtered_df[col].notna())].drop_duplicates()
 
@@ -108,8 +106,10 @@ class Highly_Research_Cancerprotein_Affinities:
                 
                 axes[i].legend(title="", fontsize=10, loc='upper right')
                 axes[i].grid(axis="y")
+                axes[i].set_facecolor(background_color)
 
         plt.tight_layout()
+        
         plt.show()
     
     def plot_measurement_in_different_conditions(self, col = "ic50"):
@@ -150,8 +150,8 @@ class Highly_Research_Cancerprotein_Affinities:
             
             plt.xticks(rotation=45)
             
-            plt.title(f"{"ic50"} at {temperatures[0]}-{temperatures[-1]}°C and {pH[0]}-{pH[-1]} pH", fontsize=14)
-            plt.ylabel(f"{"ic50"} (log scale)", fontsize=12)
+            plt.title(f"{col} at {temperatures[0]}-{temperatures[-1]}°C and {pH[0]}-{pH[-1]} pH", fontsize=14)
+            plt.ylabel(f"{col} (log scale)", fontsize=12)
             plt.xlabel("", rotation=30)
             plt.legend(title="")
             plt.grid(axis="y")
