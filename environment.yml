@@ -1,0 +1,52 @@
+name: ada_miki
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - openai
+  - igraph
+  - python-igraph
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - scipy
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - networkx
+  - jupyter_client
+  - jupyter_core
+  - matplotlib-inline
+  - lxml
+  - pip  # Required to handle pip-installed packages
+  - pip:
+      - requests
+      - annotated-types==0.7.0
+      - anyio==4.7.0
+      - beautifulsoup4==4.12.3
+      - catalogue==2.0.10
+      - certifi
+      - charset-normalizer
+      - click
+      - cycler
+      - httpx
+      - jinja2
+      - joblib
+      - langcodes
+      - markdown-it-py
+      - matplotlib
+      - numpy
+      - pandas
+      - pillow
+      - pydantic
+      - pyecharts
+      - requests
+      - scikit-learn
+      - seaborn
+      - spacy
+      - tqdm
+      - typer
+      - urllib3

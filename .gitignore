@@ -1,6 +1,10 @@
 BindingDB_All_3D.sdf
 data/**
-__pycache__/**
+__pycache__/
 .ipynb_checkpoints/**
-src/__pycache__/**
 graph_data/*.gephi
+graph_data/*.svg
+graph_data/** 
+.conda/**
+.env
+.vscode/**
