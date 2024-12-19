@@ -5,3 +5,6 @@ __pycache__/
 graph_data/*.gephi
 graph_data/*.svg
 graph_data/** 
+.conda/**
+.env
+.vscode/**

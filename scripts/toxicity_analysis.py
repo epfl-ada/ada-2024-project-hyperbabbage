@@ -16,7 +16,7 @@ import seaborn as sns
 #################
 class ToxicityAnalysis:
     def __init__(self):
-        self.df, self.cancer_df = self.load_dataset()
+        self.df = self.load_dataset()
         self.grouped_df, self.grouped_df_studied = self.filter_and_group_datasets()
 
         self.toxicity_related_frequent_words, self.high_severity, self.low_severity = self.find_different_severity_keywords()
@@ -27,14 +27,12 @@ class ToxicityAnalysis:
         ### Load datasets
 
         df = pd.read_pickle(MERGED)
-        cancer_df = pd.read_pickle(LIGANDS_RELATED_TO_PROTEIN)
-        return df, cancer_df
+        return df
     
     def filter_and_group_datasets(self):
 
         ### Keep only the ones matched with Drugbank to have the toxicity reports
         df_matched = self.df[self.df['Matched_On'].isna() == False]
-        cancer_df_matched = self.cancer_df[self.cancer_df['Matched_On'].isna() == False]
 
         ### Find the drugs linked to our 11 most studied cancer related proteins
         highly_studied_proteins = [

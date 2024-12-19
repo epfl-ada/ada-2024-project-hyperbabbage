@@ -58,19 +58,51 @@ Week 10 : Identify which hypotheses are true, while analyzing time trends, and p
 Week 11 :  Network Analysis, Ligand Analysis (visualization)
 Week 12 :  Side effects (visualization)
 Week 13 : Conclude and present the storyline on our website.
-## Organization within the team
-Each of us is responsible for one topic. Each week, we talk about our findings and present our visualizations.
-## Completed milestones	 	
-Find data on cancer cases, deadliness over the years, and trends in general
-Get access to DrugBank and understand how to link it to BindingDB 
-Create template to read BindingDB efficiently > mySQL > tsv 
-Preprocessing of the data - data cleaning 	
-Identify proteins, which are related to cancer
-Get a better understanding on Chemical cancer treatment to understand the main metabolic pathways 
-Define all cancer-related parameters that could show interesting trends over the years and will help us lay out the story of the fight against cancer
+## Contributions
+  - Mikuláš Vanoušek:
+    - Preprocessing BindingDB
+    - Collecting metadata about research
+    - Time trends analysis
+    - GPT for cancer-related proteins identification
+    - Content of the data story
+  - Sebastian Delsad:
+    - Merging Binding DB with DrugBank
+    - Preprocessing the merged dataset
+    - Network analysis
+    - Code for Cancer Related Proteins
+    - The data story website
+  - Kamel Charaf
+    - Preprocessing BindingDB
+    - Collecting metadata about research
+    - Time trends analysis
+    - GPT for cancer-related proteins identification
+    - Massive code cleanup
 
 
 
-#### Access data
+## Running the analysis
+### Enviornment
+Create a the conda environment by running the following command in the root of the project:
+```bash
+conda env create --prefix ./.conda -f ./environment.yml
+```
+
+Activate the environment by running:
+```bash
+conda activate ./.conda
+```
+
+###
+You can download both clean and processed data from [Google Drive](TODO). Please place the `data` folder in the root directory of the project.
+
+If you would like to create the clean data yourself, delete the contents of `data/clean` folder and run `./preprocessing.ipynb`. Please note that you will need ~32GB of memory to merge BindingDB and DrugBank, and fetching the metadata about research based on DOI from an API takes at least an hour.
+
+
+```
+
+The analysis is done on processed data.
+
+
+
 - download from the drive [] the Merged Dataframe corrected zip, and the protein_class_COSMIC.tsv and extract into: data/clean folder
 
