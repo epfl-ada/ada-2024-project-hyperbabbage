@@ -77,8 +77,6 @@ class All_Cancerprotein_Affinities:
         sizes = data["sizes"].values
         palette = sns.color_palette("inferno", n_colors=len(categories))
         colors = [palette[i] for i in range(len(categories))]
-        print("categories", categories)
-        print("sizes", sizes)
         # Create the pie chart
         plt.figure(figsize=(10, 8))
         plt.pie(
@@ -93,7 +91,7 @@ class All_Cancerprotein_Affinities:
         )
 
         # Remove the center to create a donut chart with a black edge
-        center_circle = Circle((0, 0), 0.60, color='white', edgecolor='black', linewidth=1.5)
+        center_circle = Circle((0, 0), 0.60, color='white', linewidth=1.5)
         plt.gca().add_artist(center_circle)
 
         # Add custom legend below the chart

@@ -39,7 +39,7 @@ class Highly_Research_Cancerprotein_Affinities:
         ### extract columns that contain cancer_keywords 
         filtered_df = self.merged_df[
             self.merged_df['target_name'].isin(highly_studied_proteins)
-        ]
+        ].copy()
         filtered_df.reset_index(inplace=True)
 
         ### Create a new column to distinguish rows with and without "drugbank_drug_name"
@@ -112,7 +112,7 @@ class Highly_Research_Cancerprotein_Affinities:
         
         plt.show()
     
-    def plot_measurement_in_different_conditions(self, col = "ic50"):
+    def plot_measurement_in_different_conditions(self, col = "ic50", background_color="white"):
 
         if col not in self.filtered_df.columns:
             raise ValueError(f"{col} is not a valid column name for showing this plot.")
@@ -147,7 +147,7 @@ class Highly_Research_Cancerprotein_Affinities:
             )
             
             plt.yscale("log")
-            
+            plt.gca().set_facecolor(background_color)
             plt.xticks(rotation=45)
             
             plt.title(f"{col} at {temperatures[0]}-{temperatures[-1]}°C and {pH[0]}-{pH[-1]} pH", fontsize=14)
@@ -161,7 +161,7 @@ class Highly_Research_Cancerprotein_Affinities:
             raise ValueError("No valid data available for the plot.")
 
     
-    def plot_measurement_by_protein_drug_presence(self, col = "ic50"):
+    def plot_measurement_by_protein_drug_presence(self, col = "ic50", background_color="white"):
 
             if col not in self.filtered_df.columns:
                 raise ValueError(f"{col} is not a valid column name for showing this plot.")
@@ -182,4 +182,5 @@ class Highly_Research_Cancerprotein_Affinities:
             plt.legend(title="DrugBank Drug Presence", fontsize=12)
             plt.tight_layout()
             plt.grid("y")
+            ax.set_facecolor(background_color)
             plt.show()
